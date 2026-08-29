@@ -14,8 +14,8 @@
 ## About me
 
 - 🎓 M.E. student in Software Engineering at Zhejiang Normal University (2024-2027)
-- 🔧 Focused on LangGraph, DeepAgents, RAG, MCP, LLM fine-tuning and Agent evaluation
-- 🧪 Interested in reproducible workflows, context isolation, failure recovery and measurable quality
+- 🔧 Focused on Agent development, Agent evaluation and LLM fine-tuning
+- 🧪 Interested in context engineering, Agent harness engineering and reliable Agent systems
 - 📍 China
 
 ## Experience
