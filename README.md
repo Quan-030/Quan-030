@@ -26,6 +26,14 @@
 
 ### 💼 AI Application Engineering
 
+**360安全科技股份有限公司** · Agent Development Engineer · `2026.07 - present`  
+360 Yifangyun Cloud Drive Agent Assistant
+
+- Orchestrated Codex CLI tasks with LangGraph; injected attachments, user Skills, MCP services and model settings into sandboxes, and streamed progress via SSE for resumable multi-turn sessions.
+- Integrated an OpenSandbox pool with Redis session ownership and allocation locks; used per-session PVCs to recover workspaces and Codex sessions after sandbox failure.
+- Added cancellation, timeouts, lease renewal, SSE heartbeats and idle detection; classified resource, connection and model failures and cleaned up locks and processes.
+- Built knowledge-base and Wiki retrieval Skills covering CLI selection, multi-step search, source access, query budgets, error handling and citations.
+
 **每日互动股份有限公司** · AI Application Engineer · `2026.03 - 2026.07`  
 Healthcare contract intelligence Agent
 
