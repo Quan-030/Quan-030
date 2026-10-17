@@ -26,7 +26,7 @@
 
 ### 💼 AI Application Engineering
 
-**杭州浩远达科技有限公司** · AI Application Engineer · `2026.03 - present`  
+**每日互动股份有限公司** · AI Application Engineer · `2026.03 - 2026.07`  
 Healthcare contract intelligence Agent
 
 - Built a LangGraph Plan-Execute workflow for contract QA, clause retrieval, PDF ingestion and structured analysis.
